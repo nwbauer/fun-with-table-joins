@@ -1,0 +1,16 @@
+{
+  "name": "bookshelf-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bookshelf": "^0.9.1",
+    "knex": "^0.9.0",
+    "mysql": "^2.10.2"
+  }
+}
